@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 15:39:15 2023
-
-@author: NAVAMI
-"""
-
 # -*- coding: utf-8 -*-
 # import the necessary packages
 from scipy.spatial import distance as dist
